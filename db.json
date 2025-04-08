@@ -1,5 +1,7 @@
 {
-  "name": "ashish",
-  "address": "Noida",
-  "data":"test"
+	"data":{
+	  "name": "ashish",
+	  "address": "Noida",
+	  "data":"test"
+	}
 }

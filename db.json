@@ -1,7 +1,9 @@
 {
 	"data":{
 		"productUrl": "https://www.amazon.com/Minecraft-HJJ01-10-Cuutopia-Creeper/dp/B09QLGYM6T/ref=sr_1_9?th=1",
+		"productImageUrl": "https://m.media-amazon.com/images/I/71JAztjLRHL._AC_SX679_.jpg",
 		"productTitle": "Mattel Minecraft Cuutopia Creeper Plush, 10-inch Soft Rounded Pillow Doll, Video Game-Inspired Collectible Toy",
-		"addAdsRequestDetail":false
+		"addAdsRequestDetail":true,
+		"sdomain": "amazon.com"
 	}
 }
